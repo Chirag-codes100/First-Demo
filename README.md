@@ -1,2 +1,3 @@
 # First-Demo
-First time learnign git 
+First time learning git 
+author - Chirag Pandit
